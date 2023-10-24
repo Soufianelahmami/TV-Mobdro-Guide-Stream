@@ -43,64 +43,64 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "5a05d7b5-5c05-4186-8c73-86f215553f44",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JKjoOS2.webp",
+	 "title": "TV Mobdro Guide Stream 1",
+	 "text": "Create a comprehensive guide to help users set up and navigate the Mobdro app. Include step-by-step instructions, screenshots, and tips for finding their favorite content.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 1
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JKjo8N9.webp",
+	 "title": "TV Mobdro Guide Stream 2",
+	 "text": "Develop a feature that recommends TV shows, movies, or live streams based on user preferences and viewing history. This could enhance the user experience and help users discover new content.",
+	 "text_two": "",
 
 	 "isLocked": true,
 	 "id": 2
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JKjoSte.webp",
+	 "title": "TV Mobdro Guide Stream 3",
+	 "text": "Offer an up-to-date listing of available TV channels and their schedules. This can help users find specific channels and plan their viewing.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 3
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JKjoNcl.webp",
+	 "title": "TV Mobdro Guide Stream 4",
+	 "text": "Improve Mobdro's search and filter options, allowing users to find content more easily. Implement filters for genre, language, region, or content type.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 4
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JKjowF4.webp",
+	 "title": "TV Mobdro Guide Stream 5",
+	 "text": "Enable users to set reminders for upcoming shows or events, ensuring they never miss their favorite programs.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 5
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JKjok9S.webp",
+	 "title": "TV Mobdro Guide Stream 6",
+	 "text": "Create a community where users can share their thoughts, reviews, and recommendations about Mobdro content. This can help others discover hidden gems.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 6
